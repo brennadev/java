@@ -1,0 +1,29 @@
+cell phone,199.99,iPhone,true,Verizon
+television,999.99,LG Smart TV,true,LG,60
+HDMI cable,8.50,3 ft. HDMI Cable,3
+laptop,499.00,Toshiba 14" Laptop,false,Toshiba
+headphones,29.95,Skull Candy Buds,false,Skull Candy,false
+Transaction,1,1,sale
+television,1,0
+television,2,001
+laptop,3,3
+headphones,2,0
+HDMI cable,3,0
+End Transaction
+Transaction,2,1,return
+television,2,1
+cell phone,1,0
+End Transaction
+Transaction,123456,100,sale
+cell phone,1,1
+headphones,1,0
+End Transaction
+Transaction,2468,15,return
+television,1,0
+End Transaction
+Transaction,111111,199,sale
+laptop,2,1
+laptop,1,0
+headphones,1,0
+television,1,1
+End Transaction
