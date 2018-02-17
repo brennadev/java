@@ -1,4 +1,4 @@
-# java
+# Java
 
 #### Select Assignments from my Introductory Java Class
 
