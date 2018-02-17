@@ -1,3 +1,3 @@
 # Homework 4
 
-This demonstrates Java's interfaces, inheritance, and exception handling
+This assignment demonstrates Java's interfaces, inheritance, and exception handling
