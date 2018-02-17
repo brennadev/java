@@ -7,4 +7,4 @@ The output will appear in a file name transaction_summary.txt. The format is des
 
 This assignment was a learning experience for me as if I was to do it again, I'd do part of it differently. Specifically, I would put the input and output code in the driver class rather than in its own class as it causes unnecessary fragmentation.
 
-This assignment was continued in [Homework 3](../homework3)
+This assignment was continued in [Homework 3](../homework3).
